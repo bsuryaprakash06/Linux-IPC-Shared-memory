@@ -128,13 +128,6 @@ int main() {
     }
 }
 ```
-
-## Write a C program that illustrates two processes communicating using shared memory.
-
-
-
-
-
 ## OUTPUT
 
 ![alt text](image.png)
